@@ -15,7 +15,7 @@
   <img src="https://user-images.githubusercontent.com/87090118/160884640-b07154b0-3d1f-4852-b389-7d75d0f9cc4a.gif"/><br>
 </p>
 
-## :tada: Features
+## 🌸 Features
 - [x] City temperature
 - [x] Volume of rain per millimeter
 - [x] Wind speed to kilometers per hour
