@@ -12,6 +12,6 @@
 
 ## Example
 <p align="center">
-  <img src="https://s7.gifyu.com/images/Gif-Meteoditions.gif"/><br>
+  <img src="https://user-images.githubusercontent.com/87090118/160884640-b07154b0-3d1f-4852-b389-7d75d0f9cc4a.gif"/><br>
 </p>
 
