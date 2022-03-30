@@ -8,7 +8,7 @@
 
 #  Main window
 <p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
+  <img src="https://user-images.githubusercontent.com/87090118/160759537-ceb248c6-5718-401c-bd5f-a3f042619c0b.png">
 </p>
 
 
