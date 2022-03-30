@@ -10,4 +10,8 @@
   <img src="https://user-images.githubusercontent.com/87090118/160759537-ceb248c6-5718-401c-bd5f-a3f042619c0b.png">
 </p>
 
+## Example
+<p align="center">
+  <img src="https://s7.gifyu.com/images/Gif-Meteoditions.gif"/><br>
+</p>
 
